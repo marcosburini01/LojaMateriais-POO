@@ -1,0 +1,14 @@
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\LojaMaterial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\LojaMaterial.AssemblyInfoInputs.cache
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\LojaMaterial.AssemblyInfo.cs
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\LojaMaterial.csproj.CoreCompileInputs.cache
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\bin\Debug\net7.0\LojaMaterial.exe
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\bin\Debug\net7.0\LojaMaterial.deps.json
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\bin\Debug\net7.0\LojaMaterial.runtimeconfig.json
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\bin\Debug\net7.0\LojaMaterial.dll
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\bin\Debug\net7.0\LojaMaterial.pdb
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\LojaMaterial.dll
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\refint\LojaMaterial.dll
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\LojaMaterial.pdb
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\LojaMaterial.genruntimeconfig.cache
+C:\Users\JC\Desktop\LojaMaterial\LojaMaterial\obj\Debug\net7.0\ref\LojaMaterial.dll
