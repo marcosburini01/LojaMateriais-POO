@@ -79,13 +79,16 @@ Empregado cadastrarFuncionario()
 Loja cadastrarLoja()
 {
     Loja loja = new Loja();
+    Bd_Lojas bdLojas = new Bd_Lojas("caminho/do/arquivo.txt");
     Console.WriteLine("Digite o nome(Loja):");
     loja.NomeLoja = Console.ReadLine();
     Console.WriteLine("Digite Endereço:");
     loja.EnderecoLoja = Console.ReadLine();
     Console.Clear();
-    loja.IdLoja = empregados.Count();
+    loja.IdLoja = lojas.Count();
     loja.adicionarLoja();
+    // Gravar dados no arquivo
+    bdLojas.GravarDados(loja);
 
 
     return loja;
